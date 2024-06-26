@@ -26,6 +26,9 @@
 
     --text-md: 400 1rem/1.4 "Maven Pro", sans-serif;
     --text-sm: 400 .875rem/1.4 "Maven Pro", sans-serif;
+
+    --icon-fs: 1.75rem;
+    --icon-color: var(--gray-400);
 }
 
 body {
