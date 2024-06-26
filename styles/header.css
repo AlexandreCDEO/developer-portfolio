@@ -68,4 +68,8 @@ header {
         }
 
     }
+
+    & img:last-child {
+        margin-bottom: 3.56rem;
+    }
 }

@@ -25,14 +25,10 @@
     --subtitle: 400 1.25rem/1.2 "Inconsolata", monospace;
 
     --text-md: 400 1rem/1.4 "Maven Pro", sans-serif;
-    --text-md: 400 .875rem/1.4 "Maven Pro", sans-serif;
+    --text-sm: 400 .875rem/1.4 "Maven Pro", sans-serif;
 }
 
 body {
     background-color: var(--gray-200);
     color: var(--gray-400);
-}
-
-h1 {
-    
 }
